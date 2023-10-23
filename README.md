@@ -1,2 +1,2 @@
 # Maxstrong
-Personal project named Maxstrong featuring a landing page
+Personal project named Maxstrong featuring a landing page created by me.
